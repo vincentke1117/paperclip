@@ -643,6 +643,8 @@ importers:
         specifier: ^22.19.21
         version: 22.19.21
 
+  packages/teams-catalog: {}
+
   server:
     dependencies:
       '@aws-sdk/client-s3':
